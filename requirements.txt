@@ -19,7 +19,7 @@ dash-renderer==1.2.4
 dash-table==4.6.1
 decorator==4.4.2
 defusedxml==0.6.0
-Django==3.0.4
+Django==3.0.14
 django-bootstrap4==1.1.1
 django-plotly-dash==1.1.5
 dpd-components==0.1.0
